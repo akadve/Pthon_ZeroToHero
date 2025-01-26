@@ -674,9 +674,4 @@ Thank you for completing this gamified Python learning course! We hope you enjoy
 
 ---
 
-To upload this course on GitHub, follow these steps:
-1. Create a new repository.
-2. Copy the markdown content above and paste it into a `.md` file (e.g., `README.md`).
-3. Commit and push the changes to your repository.
 
-Happy teaching and learning!
