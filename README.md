@@ -1,4 +1,4 @@
-# Pthon_ZeroToHero
+# Python_ZeroToHero
 
 # Python Learning Course: Gamified Edition
 
